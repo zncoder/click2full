@@ -1,6 +1,6 @@
 {
   "name": "click2full",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "manifest_version": 2,
   "description": "Click toolbar button to trigger fullscreen",
   "permissions": [
